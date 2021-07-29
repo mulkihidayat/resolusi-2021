@@ -1,0 +1,5 @@
+Resolusi 2021
+- Menyelesaikan seluruh kelas Front-End Web Developer di dicoding.
+- Menyelesaikan buku React.js dan React native.
+- Menyelesaikan bootsrap course di codepolitan.
+- Membuat Ikan Cupang Online Store.
