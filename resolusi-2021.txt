@@ -3,3 +3,4 @@ Resolusi 2021
 - Menyelesaikan buku React.js dan React native.
 - Menyelesaikan bootsrap course di codepolitan.
 - Membuat Ikan Cupang Online Store.
+- menyelesaikan course bootstrap di codepolitan.
