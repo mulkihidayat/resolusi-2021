@@ -1,8 +1,8 @@
 RENCANA KARIR SAP
-- APPLY soltius 
 - Belajar list skill dari Gideon
   * Authorization object
-  * BADI Exit
+  * BADI
+  * User Exit & Customer Exit
   * Dialog Programming
   * Smartforms
 - Interview
