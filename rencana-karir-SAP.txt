@@ -7,4 +7,3 @@ RENCANA KARIR SAP
   * Dialog Programming
   * Smartforms
   *abap Object Oriented Programing
-- Interview
