@@ -5,4 +5,4 @@ RENCANA KARIR SAP
   * User Exit & Customer Exit
   * Dialog Programming
   * Smartforms
-- Interview
+  * BDC
