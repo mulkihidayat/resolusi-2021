@@ -3,6 +3,7 @@ RENCANA KARIR SAP
   * Authorization object
   * BADI
   * User Exit & Customer Exit
+  * Explisit & Implisit Enhancement
   * Dialog Programming
   * Smartforms
-  * BDC
+  *abap Object Oriented Programing
